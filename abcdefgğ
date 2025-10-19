@@ -1,0 +1,14 @@
+#include <iostream>
+#include <string>
+using namespace std;
+void merhabaDe(){
+cout<< "merhaba, fonksiyonlardan selam " <<endl;
+}
+
+
+int main()
+{
+    merhabaDe();
+
+    return 0;
+}
